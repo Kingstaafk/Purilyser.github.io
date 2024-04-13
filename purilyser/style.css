@@ -1,0 +1,12 @@
+.box {
+  width: 1440px;
+  height: 111px;
+}
+
+.box .navigation-bar {
+  position: fixed;
+  width: 1440px;
+  height: 111px;
+  top: 0;
+  left: 0;
+}
